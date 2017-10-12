@@ -1,0 +1,18 @@
+[
+null,
+{"id":1,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":195,"name":"Keyring","note":"","params":[0,0,1,0,0,0,0,0],"price":0},
+{"id":2,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"The Power of Friendship","note":"","params":[0,0,20,0,0,0,0,0],"price":0},
+{"id":3,"atypeId":0,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":245,"name":"Action Replay","note":"","params":[0,0,96,0,0,0,0,0],"price":0},
+{"id":4,"atypeId":4,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Arthur's Plate","note":"","params":[0,0,0,1,0,0,0,0],"price":0},
+{"id":5,"atypeId":0,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":147,"name":"Belmont Family Crest","note":"","params":[0,0,15,0,0,0,0,0],"price":0},
+{"id":6,"atypeId":4,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Mark VI Space Marine Armor","note":"","params":[0,0,0,50,0,0,0,0],"price":0},
+{"id":7,"atypeId":4,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"The Berserker Mail","note":"","params":[0,0,0,96,0,0,0,0],"price":0},
+{"id":8,"atypeId":3,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":149,"name":"Cloud Strife Cosplay Wig","note":"","params":[0,0,1,1,0,0,0,0],"price":0},
+{"id":9,"atypeId":3,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":132,"name":"Fuy Gawkes Mask","note":"","params":[0,0,5,5,0,0,0,0],"price":0},
+{"id":10,"atypeId":3,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":150,"name":"Infinity Bandana","note":"","params":[0,0,25,25,0,0,0,0],"price":0},
+{"id":11,"atypeId":3,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":132,"name":"Frightening God Mask","note":"","params":[0,0,96,96,0,0,0,0],"price":0},
+{"id":12,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":13,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":14,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":15,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]
