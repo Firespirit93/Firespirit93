@@ -1,4 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"Actor2_5","characterIndex":4,"characterName":"Actor2","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Actor2","traits":[],"initialLevel":20,"maxLevel":99,"name":"Salvatore","nickname":"Sal","note":"<LUHealHP>\n<LUHealMP>\n<LUHealStates>","profile":"Hardworking college student who likes to have a little \nfun once in a while. Girlfriend is Kimberly Daze"}
+{"id":1,"battlerName":"Actor2_5","characterIndex":4,"characterName":"Actor2","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Actor2","traits":[],"initialLevel":99,"maxLevel":99,"name":"Salvatore","nickname":"Sal","note":"<LUHealHP>\n<LUHealMP>\n<LUHealStates>","profile":"Hardworking college student who likes to have a little \nfun once in a while. Girlfriend is Kimberly Daze"}
 ]
